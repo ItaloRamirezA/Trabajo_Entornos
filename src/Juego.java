@@ -25,7 +25,7 @@ public class Juego {
                 acertado = true;
             }
         }
-
+        //Comentario de ejemplo para hacer commit
         System.out.println("¡Felicidades! Adivinaste el número en " + intentos + " intentos.");
     }
 }
