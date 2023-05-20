@@ -27,5 +27,6 @@ public class Juego {
         }
         //Comentario de ejemplo para hacer commit
         System.out.println("¡Felicidades! Adivinaste el número en " + intentos + " intentos.");
+         System.out.println("Eres muy PRO");
     }
 }
